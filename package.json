@@ -1,0 +1,25 @@
+{
+  "name": "@sharadox/sharadox-verifiable-source-license",
+  "version": "0.1.0",
+  "private": true,
+  "license": "SEE LICENSE IN LICENCA.md",
+  "packageManager": "pnpm@10.34.9",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "verify": "turbo run format:check",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{json,md,yml,yaml,mjs}": "prettier --write"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^17.6.0",
+    "prettier": "^3.9.10",
+    "turbo": "^2.11.10"
+  }
+}
