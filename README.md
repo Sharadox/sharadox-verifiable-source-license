@@ -1,10 +1,10 @@
-# Licença Sharadox de Código Verificável · Sharadox Verifiable Source Licence
+# Licença Sharadox de Código Verificável · Sharadox Verifiable Source License
 
 Versão 0.1.0 · Version 0.1.0
 
 A licença da Sharadox para código público que pode ser lido e verificado, mas não livremente utilizado. Não é uma licença de código aberto: todos os direitos não expressamente concedidos estão reservados.
 
-Sharadox's licence for public code that can be read and verified, but not freely used. It is not an open source licence: all rights not expressly granted are reserved.
+Sharadox's license for public code that can be read and verified, but not freely used. It is not an open source license: all rights not expressly granted are reserved.
 
 - [`LICENCA.md`](LICENCA.md) — texto original e vinculativo (português)
 - [`LICENSE.md`](LICENSE.md) — informative English translation
